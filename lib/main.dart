@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:todo_flutter_app/todo_page.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyTodoApp());
 }
 
 class MyApp extends StatelessWidget {
